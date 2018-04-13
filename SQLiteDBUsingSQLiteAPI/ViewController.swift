@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         let secondCommit = "This is our second commit in HiteshBranch"
         
         let Commit = "T"
+        let CommitM = "M"
         
     }
 
