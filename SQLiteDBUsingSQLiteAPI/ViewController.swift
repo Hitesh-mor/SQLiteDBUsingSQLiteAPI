@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         //This is the first commit done by me - 1st commit
         let firstCommit = "This is our first commit"
         
+        //This is the second commit done by me - 2nd commit in HiteshBranch
+        let secondCommit = "This is our second commit in HiteshBranch"
+        
     }
 
     override func didReceiveMemoryWarning() {
