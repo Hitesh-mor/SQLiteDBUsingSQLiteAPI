@@ -22,9 +22,7 @@ class ViewController: UIViewController {
         //This is the first commit on Github - 1st commit
         let firstCommitOnGithub = "This is our first commit on Github"
         
-        func T(){
-            
-        }
+        
         
     }
 
